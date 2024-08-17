@@ -1,6 +1,3 @@
+With great power, comes great responsibility.
 
-Computer Science | University of Manitoba 
-
-From Pakistan, born and raised in Saudi Arabia.
-
-I love games.
+![](https://github.com/FawazBinSaleem/FawazBinSaleem/blob/main/spiderman-gif-4.gif)
