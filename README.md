@@ -5,4 +5,4 @@
 
 ## Some Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FawazBinSaleem)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FawazBinSaleem&theme=transparent&hide_border=true&border_radius=10&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
