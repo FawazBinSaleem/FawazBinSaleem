@@ -5,4 +5,4 @@
 ![Fawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawazBinSaleem&show_icons=true&theme=transparent&hide_border=true&layout=default&hide_title=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FawazBinSaleem&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![](https://github-trophies.vercel.app/?username=FawazBinSaleem)
+
