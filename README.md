@@ -6,3 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FawazBinSaleem&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+[![](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/FawazBinSaleem/github-readme-stats)
