@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FawazBinSaleem&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawazBinSaleem&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawazBinSaleem&layout=compact&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
